@@ -2,7 +2,7 @@
 
 Try to match the color pattern in this Simon game.
 
-[Live Application](simon-game-dlzl.surge.sh)
+[Live Application](https://simon-game-dlzl.surge.sh)
 
 ### Project Goals
 
